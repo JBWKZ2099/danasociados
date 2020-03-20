@@ -35,3 +35,19 @@ body {
     color: #4C4C4C;
     text-align:justify;
 }
+.bg-la-firma {
+    background-image: url("assets/headerFirmaMobile.png");
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+@media( max-width: 990px ) {}
+@media( max-width: 767px ) {
+    .bg-la-firma {
+        height: 300px;
+        background-image: url("assets/headerFirmaDesktop.png");
+    }
+}
+@media( max-width: 576px ) {}
