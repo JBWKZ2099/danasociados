@@ -1,0 +1,205 @@
+.mainFirstDiv {
+    background:url(assets/mainFirst.png);
+    background-size: cover;
+    background-position: 50%;
+    height: 94vh;
+    top: 0;
+    left: 0;
+}
+.mainFilter {
+    width: 100%;
+    height: 94%;
+    background-color:rgba(0,0,0,0.2);
+    position: absolute;
+}
+.scrollImageDiv {
+    display: table-cell;
+    vertical-align: bottom;
+    margin-bottom: auto;
+    bottom:20px;
+    position: absolute;
+}
+.mainScrollImage {
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.logoDiv {
+    width: 100vw;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+}
+.mainImage {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    position: absolute;
+    width: 20vw;
+}
+.mainImage2 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    position: absolute;
+    width: 60vw;
+}
+/*INFO*/
+.container-full {
+    margin: 0 auto;
+    width: 100%;
+}
+.infoPhotoContainer {
+    background: url("assets/gradientInfo.png");
+    background-size: 61vw;
+    background-position: -12vw;
+    background-repeat: no-repeat;
+    border-right: 5px solid #ff5800;
+    -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+.infoPhotoContainer2 {
+    background: url("assets/gradientMobileInfo.png");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    height: 65vw;
+}
+.infoTextContainer {
+    background-color: #ff5800;
+    color: white;
+    border-right: 5px solid #ff5800;
+    text-align: justify;
+}
+.infoTextContainer2 {
+    background-color: #ff5800;
+    text-align: center;
+    color: white;
+}
+.infoTitle {
+    font-size: 4vh;
+    left:0;
+    right:0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.infoDesc {
+    font-size: 2vh;
+    left:0;
+    right:0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.infoDesc2 {
+    width:66vw;
+}
+.infoButton {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    background-color: #696969;
+    border: none;
+    cursor: pointer;
+}
+.infoButtonBtn {
+    margin-bottom: 50px;
+    border: none;
+    background-color: transparent;
+}
+.infoButton:hover {
+    background-color: #464646;
+}
+/* CONTACT */
+.contactTitle {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contactPhoneImg {
+    width: 25px;
+}
+.contactPhoneTitle {
+    text-align: right;
+    margin-bottom: 30px;
+}
+.contactPhoneTitle2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.contactPhoneListElement {
+    text-align: right;
+    font-size: 20px;
+    color: #696969;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+.contactPhoneListElement2 {
+    text-align: center;
+    font-size: 20px;
+    color: #696969;
+}
+hr {
+    background-color: #ff5800;
+    height: 2px;
+    width: 10vw;
+    float: right;
+}
+.hr2 {
+    background-color: #ff5800;
+    height: 2px;
+    width: 10vw;
+    float: unset;
+}
+.socialIcon {
+    width: 3vw;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.socialIcon2 {
+    width: 15vw;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.socialTitle {
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+}

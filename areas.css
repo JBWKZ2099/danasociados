@@ -1,0 +1,113 @@
+body {
+    background-color: #ff5800;
+}
+.areasTitle {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    font-size: 27px;
+}
+.containerBoxTitle {
+    text-align: center;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.containerBoxTitle {
+    cursor: pointer;
+}
+.containerBoxTitle:hover {
+    text-decoration: underline;
+}
+#dCorporativo {
+    background: url(assets/areas/small/dCorporativo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+#dFiscal {
+    background: url(assets/areas/small/dFiscal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#dAdministrativo {
+    background: url(assets/areas/small/dAdministrativo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#dInmobiliario {
+    background: url(assets/areas/small/dInmobiliario.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#pIntelectual {
+    background: url(assets/areas/small/pIntelectual.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#fintech {
+    background: url(assets/areas/small/fintech.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#lMercantil {
+    background: url(assets/areas/small/lMercantil.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#lCivil {
+    background: url(assets/areas/small/lCivil.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#lPenal {
+    background: url(assets/areas/small/lPenal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#mAlternos {
+    background: url(assets/areas/small/mAlternos.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#dLaboral {
+    background: url(assets/areas/small/dLaboral.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#dMigratorio {
+    background: url(assets/areas/small/dMigratorio.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#dAmbiental {
+    background: url(assets/areas/small/dAmbiental.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#pBono {
+    background: url(assets/areas/small/pBono.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20% 15%;
+}

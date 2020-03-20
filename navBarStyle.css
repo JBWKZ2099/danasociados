@@ -1,0 +1,26 @@
+.navBarText {
+    color: white;
+}
+.navBarText:hover {
+    color:#FF5800;
+}
+.navBarContent {
+    float: right;
+}
+.navBarGeneral {
+    background-color: #4C4C4C;
+}
+ul {
+    list-style: none;
+}
+li {
+    list-style: none;
+    margin-left: 0px;
+}
+.pull-left {
+    float: left;
+    margin-left: 10px;
+}
+.currentNavBar {
+    border-bottom: 2px solid #FF5800;
+}
